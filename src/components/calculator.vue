@@ -3,7 +3,7 @@
     <div class="m-auto bg-slate-200 mt-10  rounded-lg ">
         <div class="text-center">
             <h1 class="text-2xl font-bold px-5 py-3 text-center ">Octal infotech Calculator</h1>
-            <small>You can fully use keyboard to calculate</small>
+            <small>You can fully use keyboard to calculate   </small>
         </div>
         <p class="text-3xl bg-white text-right mx-auto border shadow shadow-black  border-black mt-10 w-72 h-14 overflow-x-scroll" style="direction:rtl">
             {{ currentNum }}
